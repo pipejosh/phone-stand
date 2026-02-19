@@ -1,4 +1,4 @@
-# phone-stand
+# Phone stand
 
 Sooo i needed a phone stand to have my phone at a better position when im building cool stuff, so what better than to do it myself.
 
