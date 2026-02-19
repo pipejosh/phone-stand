@@ -2,7 +2,9 @@
 
 Sooo i needed a phone stand to have my phone at a better position when im building cool stuff, so what better than to do it myself.
 
-This is a phone stand that uses minila supports and that can be printed in parts.
+This is a phone stand that uses minimal supports and that can be printed in parts.
+
+https://www.nexprint.com/en/models/G8161162?component=UserPublish&printConfigId=G4809515
 
 ## How To Asseble
 
