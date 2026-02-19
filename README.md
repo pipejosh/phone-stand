@@ -20,4 +20,18 @@ https://www.nexprint.com/en/models/G8161162?component=UserPublish&printConfigId=
 
 <img width="708" height="628" alt="image" src="https://github.com/user-attachments/assets/80803f76-d745-47ad-9a1d-444c40c9ecbe" />
 
+## BOM
 
+### Filament Cost
+
+| Item         | Description     | Total Grams | Grams Used | Price Model USD | Price Total USD | URL |
+|-------------|----------------|------------|------------|-----------------|----------------|-----|
+| PLA Filament | 1 kg of PLA    | 1000       | 70         | 0,98            | 14             | https://us.elegoo.com/products/pla-filament-1-75mm-colored-1kg |
+
+---
+
+### Total
+
+| TOTAL USD |
+|-----------|
+| 14        |
